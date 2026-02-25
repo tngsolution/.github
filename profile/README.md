@@ -96,12 +96,12 @@ Individual repositories can override these defaults by including their own versi
 | File | Purpose |
 |------|---------|
 | README.md | Organization overview and project catalog |
-| [CONTRIBUTING.md](https://github.com/tngsolution/azure-landingzone/blob/main/CONTRIBUTING.md) | How to contribute to our projects |
+| CONTRIBUTING.md | How to contribute to our projects |
 | CODE_OF_CONDUCT.md | Community standards and behavior |
-| [SECURITY.md](https://github.com/tngsolution/azure-landingzone/blob/main/SECURITY.md) | Security reporting and vulnerability disclosure |
-| [pull_request_template.md](https://github.com/tngsolution/azure-landingzone/blob/main/.github/pull_request_template.md) | Default PR template |
-| [issue_template/](https://github.com/tngsolution/azure-landingzone/tree/main/.github/ISSUE_TEMPLATE)| Issue and bug report templates |
-| [CODEOWNERS](https://github.com/tngsolution/azure-landingzone/blob/main/.github/CODEOWNERS) | Code ownership and review assignments |
+| SECURITY.md | Security reporting and vulnerability disclosure |
+| pull_request_template.md | Default PR template |
+| issue_template/ | Issue and bug report templates |
+| CODEOWNERS | Code ownership and review assignments |
 
 ---
 
